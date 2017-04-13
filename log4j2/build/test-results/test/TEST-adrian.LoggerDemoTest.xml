@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="adrian.LoggerDemoTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-04-13T12:31:22" hostname="ac-asus-X555L" time="0.393">
-  <properties/>
-  <testcase name="test" classname="adrian.LoggerDemoTest" time="0.393"/>
-  <system-out><![CDATA[13:31:23.226 [Test worker] INFO  adrian.LoggerDemo - Hi, I am here
-]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
