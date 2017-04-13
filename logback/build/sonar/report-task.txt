@@ -1,0 +1,5 @@
+projectKey=adrian.demo.log4j2
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/adrian.demo.log4j2
+ceTaskId=AVtnSvE69YnvS8vO5q9N
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AVtnSvE69YnvS8vO5q9N

@@ -1,0 +1,5 @@
+projectKey=adrian.demo.sysoutprint
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/adrian.demo.sysoutprint
+ceTaskId=AVtnSMAe9YnvS8vO5q9M
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AVtnSMAe9YnvS8vO5q9M
